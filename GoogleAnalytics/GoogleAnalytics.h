@@ -16,9 +16,3 @@
 #import <GoogleAnalytics/GAILogger.h>
 #import <GoogleAnalytics/GAITrackedViewController.h>
 #import <GoogleAnalytics/GAITracker.h>
-
-#import <GoogleAnalytics/TAGContainer.h>
-#import <GoogleAnalytics/TAGContainerOpener.h>
-#import <GoogleAnalytics/TAGDataLayer.h>
-#import <GoogleAnalytics/TAGLogger.h>
-#import <GoogleAnalytics/TAGManager.h>
